@@ -18,13 +18,14 @@ body{
     background: #fff;
     flex-wrap: wrap;
     flex-flow: column;
-    justify-content: flex-start;
-    height: 800px;
+    height: 600px;
+    align-items: center;
+    
 }
 
 .box{
-    height: 100px;
-    flex: 0 0 200px;
+    width: 100px;
+    flex: 0 0 100px;
     
 }
 
@@ -39,5 +40,5 @@ body{
 
 .three{
     background: green;
-;
+
 }
